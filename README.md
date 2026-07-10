@@ -1,4 +1,5 @@
 
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Rishab%20Vats&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Aspiring%20Data%20Analyst%20|%20Python%20•%20SQL%20•%20Power%20BI&descAlignY=60&animation=fadeIn" width="100%" />
@@ -41,7 +42,7 @@ Aspiring Data Analyst • Mechanical Engineering Student • Turning Data into I
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Rishab-Vats&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=rishabvats2311&style=for-the-badge&color=blue)
 
 </div>
 
@@ -199,25 +200,7 @@ Aspiring Data Analyst • Mechanical Engineering Student • Turning Data into I
 
 ---
 
-# 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&radius=15"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=4&margin-w=20&margin-h=20&no-frame=true"/>
-
-</div>
-
----
 
 # 📌 Featured Projects
 
@@ -390,7 +373,4 @@ Aspiring Data Analyst • Mechanical Engineering Student • Turning Data into I
 ## 💡 "Every dataset tells a story. My job is to uncover it."
 
 </div>
-
-
-
 
