@@ -41,7 +41,7 @@ Aspiring Data Analyst • Mechanical Engineering Student • Turning Data into I
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=Rishab-Vats&style=for-the-badge&color=blue)
 
 </div>
 
