@@ -14,7 +14,7 @@ Data Analyst • Python • SQL • Power BI • Excel
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=00D4FF&center=true&vCenter=true&width=900&lines=Data+Analyst;Python+Developer;SQL+Developer;Power+BI+Dashboard+Developer;Data+Cleaning+%7C+EDA+%7C+Visualization;Business+Intelligence+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=00D4FF&center=true&vCenter=true&width=900&lines=Data+Analyst;Python+%7C+SQL+Developer;Power+BI+%7C+Excel;MySQL+%7C+PostgreSQL;Data+Cleaning+%7C+EDA;Business+Intelligence;Dashboard+Development" />
 
 </div>
 
@@ -136,13 +136,15 @@ Data Analyst • Python • SQL • Power BI • Excel
 
 <div align="center">
 
-## 💻 Programming Languages
+## 💻 Programming & Query Languages
 
 <p>
 
 <img src="https://skillicons.dev/icons?i=python" height="55"/>
 
 <img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=postgres" height="55"/>
 
 </p>
 
@@ -168,11 +170,13 @@ Data Analyst • Python • SQL • Power BI • Excel
 
 ---
 
-## 🗄 Database
+## 🗄 Databases
 
 <p>
 
 <img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=postgres" height="55"/>
 
 </p>
 
@@ -208,12 +212,12 @@ Data Analyst • Python • SQL • Power BI • Excel
 
 | Category | Skills |
 |-----------|--------|
-| 🐍 Programming | Python, SQL |
+| 🐍 Programming & Query Languages | Python, SQL |
 | 📊 Data Analysis | Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA), Statistical Analysis |
-| 📈 Visualization | Power BI, Matplotlib, Excel Charts |
+| 📈 Visualization | Power BI, Microsoft Excel, Matplotlib |
 | 📑 Libraries | Pandas, NumPy |
-| 🗄 Databases | MySQL, Relational Database Design, Query Optimization |
-| 📋 Business Intelligence | Dashboard Development, KPI Reporting, Business Intelligence, Report Automation |
+| 🗄 Databases | MySQL, PostgreSQL, Relational Database Design, Query Optimization |
+| 📋 Business Intelligence | Dashboard Development, KPI Reporting, Business Intelligence, Report Automation, DAX |
 | 🛠 Tools | Git, GitHub, VS Code, Jupyter Notebook |
 
 </div>
@@ -227,12 +231,14 @@ Data Analyst • Python • SQL • Power BI • Excel
 | 📊 Analytics | 📈 Visualization | 💾 Database | ⚙ Development |
 |--------------|-----------------|------------|---------------|
 | ✔ Data Cleaning | ✔ Power BI Dashboards | ✔ MySQL | ✔ Python |
-| ✔ Data Wrangling | ✔ Matplotlib | ✔ SQL Queries | ✔ Git |
-| ✔ Exploratory Data Analysis | ✔ Excel Reports | ✔ Query Optimization | ✔ GitHub |
-| ✔ Statistical Analysis | ✔ KPI Dashboards | ✔ Relational Databases | ✔ VS Code |
-| ✔ Business Intelligence | ✔ Business Reports | ✔ Database Design | ✔ Jupyter Notebook |
+| ✔ Data Wrangling | ✔ Excel Reports | ✔ PostgreSQL | ✔ SQL |
+| ✔ Exploratory Data Analysis | ✔ Matplotlib | ✔ SQL Query Optimization | ✔ Git |
+| ✔ Statistical Analysis | ✔ KPI Dashboards | ✔ Relational Databases | ✔ GitHub |
+| ✔ Business Intelligence | ✔ Business Reports | ✔ Database Design | ✔ VS Code |
+| ✔ Dashboard Development | ✔ DAX | ✔ Database Management | ✔ Jupyter Notebook |
 
 </div>
+
 
 ---
 
@@ -270,4 +276,4 @@ Data Analyst • Python • SQL • Power BI • Excel
 | 🤖 Google AI Essentials | Google | <a href="YOUR_GOOGLE_AI_LINK">🔗 View</a> |
 
 </div>
----
+
