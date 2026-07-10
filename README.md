@@ -1,7 +1,3 @@
-<!-- ===================================================== -->
-<!--                PREMIUM DATA ANALYST PROFILE            -->
-<!--                     PART 1 START                       -->
-<!-- ===================================================== -->
 
 <div align="center">
 
@@ -182,11 +178,6 @@ Aspiring Data Analyst • Mechanical Engineering Student • Turning Data into I
 
 </div>
 
-<!-- ===================================================== -->
-
-<!--                  PART 2 STARTS HERE                   -->
-
-<!-- ===================================================== -->
 
 # 📊 GitHub Analytics
 
@@ -399,6 +390,7 @@ Aspiring Data Analyst • Mechanical Engineering Student • Turning Data into I
 ## 💡 "Every dataset tells a story. My job is to uncover it."
 
 </div>
+
 
 
 
