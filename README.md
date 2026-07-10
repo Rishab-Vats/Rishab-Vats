@@ -1,8 +1,6 @@
-
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Rishab%20Vats&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Aspiring%20Data%20Analyst%20|%20Python%20•%20SQL%20•%20Power%20BI&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Rishab%20Vats&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20|%20Python%20•%20SQL%20•%20Power%20BI&descAlignY=60&animation=fadeIn" width="100%" />
 
 </div>
 
@@ -11,12 +9,12 @@ Hi 👋 I'm Rishab Vats
 </h1>
 
 <h3 align="center">
-Aspiring Data Analyst • Mechanical Engineering Student • Turning Data into Insights 📊
+Data Analyst • Python • SQL • Power BI • Excel
 </h3>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=900&lines=Aspiring+Data+Analyst;Python+Developer;SQL+Enthusiast;Power+BI+Dashboard+Creator;Data+Cleaning+%7C+EDA+%7C+Visualization;Always+Learning+Something+New..." />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=00D4FF&center=true&vCenter=true&width=900&lines=Data+Analyst;Python+Developer;SQL+Developer;Power+BI+Dashboard+Developer;Data+Cleaning+%7C+EDA+%7C+Visualization;Business+Intelligence+Enthusiast;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -32,7 +30,7 @@ Aspiring Data Analyst • Mechanical Engineering Student • Turning Data into I
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Rishab-Vats">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -42,7 +40,7 @@ Aspiring Data Analyst • Mechanical Engineering Student • Turning Data into I
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=rishabvats2311&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=Rishab-Vats&style=for-the-badge&color=0e75b6)
 
 </div>
 
@@ -50,90 +48,107 @@ Aspiring Data Analyst • Mechanical Engineering Student • Turning Data into I
 
 # 💫 About Me
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXI4dXkwOGE4N2RrN2N3NWVwYzY3aW9sYzE3Y2h4Nm1uOWFwaHZmbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif">
+<img align="right" alt="Data Analysis" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXI4dXkwOGE4N2RrN2N3NWVwYzY3aW9sYzE3Y2h4Nm1uOWFwaHZmbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif">
 
-### 👨‍💻 Who Am I?
+## 👨‍💻 Who Am I?
 
 🎓 B.Tech Mechanical Engineering Student
 
-📊 Aspiring Data Analyst passionate about solving business problems with data.
+📊 Aspiring Data Analyst passionate about transforming raw data into actionable business insights.
 
-💡 I enjoy transforming raw datasets into meaningful insights through analysis and visualization.
+📈 Skilled in Python, SQL, Power BI and Excel for data analysis, visualization and dashboard development.
 
-📈 My goal is to become a professional Data Analyst and work on real-world business intelligence projects.
+🧹 Experienced in Data Cleaning, Exploratory Data Analysis (EDA), Statistical Analysis and Business Intelligence.
+
+📋 I enjoy solving business problems using data-driven decision making.
+
+🚀 Currently building real-world analytics projects to strengthen my portfolio and prepare for Data Analyst roles.
 
 ---
 
-### 🚀 Current Focus
+## 🚀 Current Focus
 
-- 🐍 Python
-- 🗄 SQL
-- 📊 Excel
+- 🐍 Python for Data Analysis
+- 🗄 SQL & MySQL
+- 📊 Microsoft Excel
 - 📈 Power BI
+- 📉 Dashboard Development
 - 🐼 Pandas
 - 🔢 NumPy
-- 📉 Matplotlib
-- 📚 Statistics
-- 🧹 Data Cleaning
-- 📊 Exploratory Data Analysis (EDA)
+- 📊 Matplotlib
+- 📋 Statistical Analysis
+- 🧹 Data Cleaning & Wrangling
+- 📈 Exploratory Data Analysis (EDA)
+- 📑 Business Intelligence
+- ⚡ Query Optimization
+- 📊 Report Automation
 
 ---
 
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 
 ✔ Advanced SQL
 
-✔ Power BI Dashboards
+✔ Power BI & DAX
 
-✔ Data Visualization
+✔ Dashboard Design
 
-✔ Statistics for Data Analysis
+✔ Statistical Analysis
 
-✔ Business Analytics
+✔ Business Intelligence
 
-✔ Machine Learning Fundamentals
+✔ Report Automation
+
+✔ Advanced Data Visualization
+
+✔ Real-world Data Analytics Projects
 
 ---
 
-### 🎯 2026 Goals
+## 🎯 2026 Goals
 
-✅ Build 25+ Data Analytics Projects
+✅ Build a Strong Data Analytics Portfolio
 
-✅ Master SQL
+✅ Publish High-Quality GitHub Projects
 
-✅ Master Python for Analytics
+✅ Master Python for Data Analysis
 
-✅ Become an Excel Expert
+✅ Master SQL & Query Optimization
 
-✅ Learn Power BI End-to-End
+✅ Become an Excel Power User
+
+✅ Build Interactive Power BI Dashboards
 
 ✅ Contribute to Open Source
 
-✅ Land a Data Analyst Role
+✅ Secure a Data Analyst Role
 
 ---
 
+<div align="center">
+
+### 💡 *"Turning raw data into meaningful insights that drive smarter decisions."*
+
+</div>
+
+---
 # 🛠 Tech Stack
 
-## Programming Languages
+<div align="center">
+
+## 💻 Programming Languages
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
 
 </p>
 
 ---
 
-## Data Analytics
+## 📊 Data Analytics & Business Intelligence
 
 <p>
 
@@ -141,52 +156,105 @@ Aspiring Data Analyst • Mechanical Engineering Student • Turning Data into I
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/DAX-005C84?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 </p>
 
 ---
 
-## ⚡ What I Love Working On
+## 🗄 Database
 
-📊 Data Analysis
+<p>
 
-📈 Dashboard Development
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
 
-🧹 Data Cleaning
-
-📉 Exploratory Data Analysis
-
-📋 Business Reports
-
-📊 Data Visualization
-
-📂 SQL Query Optimization
-
-🐍 Python Automation
+</p>
 
 ---
 
-<div align="center">
+## 🧰 Tools & Platforms
 
-### ⭐ "Without data, you're just another person with an opinion."
+<p>
+
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=githubactions" height="55"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+</p>
 
 </div>
 
+---
 
-# 📊 GitHub Analytics
+# 💼 Technical Skills
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"/>
+| Category | Skills |
+|-----------|--------|
+| 🐍 Programming | Python, SQL |
+| 📊 Data Analysis | Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA), Statistical Analysis |
+| 📈 Visualization | Power BI, Matplotlib, Excel Charts |
+| 📑 Libraries | Pandas, NumPy |
+| 🗄 Databases | MySQL, Relational Database Design, Query Optimization |
+| 📋 Business Intelligence | Dashboard Development, KPI Reporting, Business Intelligence, Report Automation |
+| 🛠 Tools | Git, GitHub, VS Code, Jupyter Notebook |
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+</div>
+
+---
+
+# ⚡ What I Work With
+
+<div align="center">
+
+| 📊 Analytics | 📈 Visualization | 💾 Database | ⚙ Development |
+|--------------|-----------------|------------|---------------|
+| ✔ Data Cleaning | ✔ Power BI Dashboards | ✔ MySQL | ✔ Python |
+| ✔ Data Wrangling | ✔ Matplotlib | ✔ SQL Queries | ✔ Git |
+| ✔ Exploratory Data Analysis | ✔ Excel Reports | ✔ Query Optimization | ✔ GitHub |
+| ✔ Statistical Analysis | ✔ KPI Dashboards | ✔ Relational Databases | ✔ VS Code |
+| ✔ Business Intelligence | ✔ Business Reports | ✔ Database Design | ✔ Jupyter Notebook |
+
+</div>
+
+---
+
+# 🏆 Certifications
+
+<div align="center">
+
+<a href="https://www.hackerrank.com/certificates/4bb2ef1987d5" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-Python%20(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://lnkd.in/dDzm-VwS" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Intermediate%20Excel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://lnkd.in/dY5jmsQV" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-SQL%20for%20Data%20Analysis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_GOOGLE_AI_LINK" target="_blank">
+<img src="https://img.shields.io/badge/Google-AI%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
 
 </div>
 
@@ -194,183 +262,12 @@ Aspiring Data Analyst • Mechanical Engineering Student • Turning Data into I
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=15"/>
+| Certification | Issued By | Credential |
+|:--------------|:---------:|:----------:|
+| 🐍 Python (Basic) | HackerRank | <a href="https://www.hackerrank.com/certificates/4bb2ef1987d5">🔗 View</a> |
+| 📊 Intermediate Excel | LinkedIn Learning | <a href="https://lnkd.in/dDzm-VwS">🔗 View</a> |
+| 🗄 SQL for Data Analysis | LinkedIn Learning | <a href="https://lnkd.in/dY5jmsQV">🔗 View</a> |
+| 🤖 Google AI Essentials | Google | <a href="YOUR_GOOGLE_AI_LINK">🔗 View</a> |
 
 </div>
-
 ---
-
-
-
-# 📌 Featured Projects
-
-> ⭐ Replace these links with your actual repositories.
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-<h3 align="center">📊 SQL Data Analysis</h3>
-
-<p align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/SQL-Data-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=SQL-Data-Analysis&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">📈 Power BI Dashboard</h3>
-
-<p align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/PowerBI-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PowerBI-Dashboard&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<h3 align="center">🐍 Python EDA</h3>
-
-<p align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/Python-EDA">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=Python-EDA&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">📉 Data Cleaning</h3>
-
-<p align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/Data-Cleaning">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=Data-Cleaning&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<h3 align="center">📋 Excel Dashboard</h3>
-
-<p align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/Excel-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=Excel-Dashboard&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">📊 Customer Churn Analysis</h3>
-
-<p align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/Customer-Churn-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=Customer-Churn-Analysis&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 💼 Core Skills
-
-<div align="center">
-
-| Data Analysis    | Programming | Visualization       | BI Tools                |
-| ---------------- | ----------- | ------------------- | ----------------------- |
-| ✔ Data Cleaning  | ✔ Python    | ✔ Matplotlib        | ✔ Power BI              |
-| ✔ Data Wrangling | ✔ SQL       | ✔ Excel Charts      | ✔ Dashboards            |
-| ✔ EDA            | ✔ Pandas    | ✔ Data Storytelling | ✔ Business Intelligence |
-| ✔ Statistics     | ✔ NumPy     | ✔ Reports           | ✔ KPI Analysis          |
-
-</div>
-
----
-
-# 📚 Currently Exploring
-
-<div align="center">
-
-| Learning Area    | Progress       |
-| ---------------- | -------------- |
-| Advanced SQL     | ████████░░ 80% |
-| Power BI         | ███████░░░ 70% |
-| Python           | ████████░░ 80% |
-| Pandas           | ███████░░░ 70% |
-| Statistics       | ██████░░░░ 60% |
-| Machine Learning | ████░░░░░░ 40% |
-
-</div>
-
----
-
-# 🎯 Areas of Interest
-
-<div align="center">
-
-🔹 Business Intelligence
-
-🔹 Data Analytics
-
-🔹 Data Visualization
-
-🔹 Exploratory Data Analysis
-
-🔹 Dashboard Design
-
-🔹 SQL Optimization
-
-🔹 Python Automation
-
-🔹 Business Reporting
-
-🔹 KPI Tracking
-
-🔹 Predictive Analytics
-
-</div>
-
----
-
-<div align="center">
-
-## 💡 "Every dataset tells a story. My job is to uncover it."
-
-</div>
-
