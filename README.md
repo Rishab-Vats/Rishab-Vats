@@ -103,27 +103,7 @@ Data Analyst • Python • SQL • Power BI • Excel
 
 ✔ Real-world Data Analytics Projects
 
----
 
-## 🎯 2026 Goals
-
-✅ Build a Strong Data Analytics Portfolio
-
-✅ Publish High-Quality GitHub Projects
-
-✅ Master Python for Data Analysis
-
-✅ Master SQL & Query Optimization
-
-✅ Become an Excel Power User
-
-✅ Build Interactive Power BI Dashboards
-
-✅ Contribute to Open Source
-
-✅ Secure a Data Analyst Role
-
----
 
 <div align="center">
 
