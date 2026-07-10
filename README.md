@@ -36,8 +36,6 @@ Data Analyst • Python • SQL • Power BI • Excel
 
 # 💫 About Me
 
-<img align="right" alt="Data Analysis" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXI4dXkwOGE4N2RrN2N3NWVwYzY3aW9sYzE3Y2h4Nm1uOWFwaHZmbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif">
-
 ## 👨‍💻 Who Am I?
 
 🎓 B.Tech Mechanical Engineering Student
