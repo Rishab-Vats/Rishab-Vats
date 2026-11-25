@@ -9,7 +9,7 @@ Hi 👋 I'm Rishab Vats
 </h1>
 
 <h3 align="center">
-Aspiring Data Analyst • SQL • Power BI • Excel • Python
+Aspiring Data Analyst • SQL • Power BI • Excel 
 </h3>
 
 <div align="center">
