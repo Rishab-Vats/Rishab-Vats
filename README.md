@@ -95,23 +95,10 @@ Hey there, I'm Prashansha Kumari 👋
 
 | Category | Details |
 |:---------|:--------|
-| 📊 **Top Skills** | Data Analysis, Microsoft Power BI, SQL[cite: 2] |
-| 📈 **Active Learning Track** | Advanced Excel, Power BI, SQL, Python[cite: 2] |
-| 💰 **Domain Expertise** | Revenue Cycle Management (RCM), Accounts Receivable (AR), Claim Denial & Rejection Analysis, Billing Accuracy, Accounting[cite: 2] |
+| 📊 **Top Skills** | Data Analysis, Microsoft Power BI, SQL |
+| 📈 **Active Learning Track** | Advanced Excel, Power BI, SQL, Python |
+| 💰 **Domain Expertise** | Revenue Cycle Management (RCM), Accounts Receivable (AR), Claim Denial & Rejection Analysis, Billing Accuracy, Accounting |
 | 🗣 **Languages** | English (Full Professional), Hindi (Native or Bilingual)[cite: 2] |
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,50:0A66C2,100:00E5FF" width="100%" />
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prashanshakumari67&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=00E5FF&icon_color=00E5FF" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanshakumari67&theme=tokyonight&hide_border=true&background=090D16&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" height="165" alt="GitHub Streak" />
-
-</div>
 
 <br>
 
